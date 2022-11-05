@@ -1,4 +1,4 @@
-- 👋 Gabriel here!
+- 👋 Gabriel here.
 - 👀 I’m interested in not seeing syntax errors in VSC for once. Also, HTML, CSS and JS.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything that requires mild debugging.
