@@ -1,6 +1,6 @@
 - 👋 Gabriel here.
-- 👀 I’m interested in not seeing syntax errors in VSC for once. Also, HTML, CSS and JS.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in not seeing syntax errors in VSC for once.
+- 🌱 I’m practicing Python, and am currently learning Javascript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on anything that requires mild debugging.
 - 📫 You can reach me on my twitter for anything urgent!
 
