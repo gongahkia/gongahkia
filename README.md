@@ -1,6 +1,7 @@
 - 👋 Gabriel here.
-- 👀 I’m interested in not seeing syntax errors in VSC for once.
-- 🌱 I’m practicing Python, and am currently learning Javascript, HTML, and CSS.
+- 👀 I’m interested in not seeing syntax errors in VSC for once. With Rust though, there is no chance.
+- 🌱 I’m practicing Python, and am currently learning Rust, HTML, and CSS. Javascript, C++, Perl, and Ruby are all on the backburner for now.
+- 🤡 In the process of deluding myself into believing that Rust will make me a better C++ programmer.
 - 💞️ I’m looking to collaborate on anything that requires mild debugging.
 - 📫 You can reach me on my twitter for anything urgent!
 
