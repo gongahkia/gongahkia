@@ -1,7 +1,7 @@
 - 👋 Gabriel here.
 - 👀 I’m interested in not seeing error logs in VSC for once. With C++ though, there is no chance.
 - 🌱 I’m currently practicing Python, C++, HTML, and CSS. Javascript, Rust, Perl, and Ruby are all on the backburner for now.
-- 🤡 Deluding myself into believing that C++ will make me a better programmer when it dosen't even have ".split()".
+- 🤡 Deluding myself into believing that C++ will make me a better programmer when I have to create a wholeass void function to use .split()
 - 💞️ I’m looking to collaborate on anything that requires mild debugging.
 - 📫 You can reach me on my twitter for anything urgent!
 
