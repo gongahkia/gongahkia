@@ -1,7 +1,7 @@
 - 👋 Gabriel here.
 - 👀 I’m interested in application and web development.
-- 🌱 Currently practicing Go, Kotlin and C. Versed in Python, Javascript, C++, HTML, and CSS. Julia, Rust, Perl, and Ruby are all on the backburner for now.
-- 🤡 Deluding myself into believing C++ will make me a better programmer when I have to create a whole ass void function to use .split()
+- 🌱 Currently practicing Go, Kotlin and C. Versed in Python, C++, Javascript, Bash, HTML, and CSS. Julia, Rust, Perl, and Ruby are all on the backburner for now.
+- 🤡 Deluding myself into believing C++ is a sustainable language when I have to create a whole ass void function to use .split()
 - 💞️ I’m looking to collaborate on anything app or web dev related, though I'll likely be more of support for back-end related stuff.
 - 📫 You can reach me on my twitter for anything urgent!
 
