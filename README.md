@@ -1,4 +1,5 @@
 - 👋 Gabriel here.
+- 🤡 Neovim enjoyer.
 - 👀 I’m interested in application and web development.
 - 🌱 Currently practicing Go, Kotlin and C. Versed in Python, C++, Javascript, Bash, HTML, and CSS. Julia, Rust, Perl, and Ruby are all on the backburner for now.
 - 🤡 Deluding myself into believing C++ is a sustainable language when I have to create a whole ass void function to use .split()
