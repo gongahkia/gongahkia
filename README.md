@@ -1,16 +1,16 @@
-# Good morning [people](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle) 🐱
+# [Good morning](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle) people 🐱
 
 👋🤡 Gabriel here.
 
-I'm your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*, and particulary enjoy making tools and small games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
+I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I particulary enjoy making tools and small games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
 
 ------
 
-Currently practicing:
+***Currently practicing:***
 * C++
 > Everyday I look into the mirror and try to convince myself that C++ is a lovely language when I have to create a whole-ass void function to use `.split()` 💞️
 
-Versed in: 
+***Versed in:***
 * Python
 * C
 * Nim
