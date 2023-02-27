@@ -19,7 +19,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 ------
 
-I’m looking to collaborate on anything app or web dev related, though I'll likely be more of support for back-end related stuff rather than front-end.  
+I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
 
 For anything urgent, you can drop me a message on my [linkedin](https://www.linkedin.com/in/gabriel-ong-a87022208/).  
 
