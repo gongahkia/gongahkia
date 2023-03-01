@@ -21,6 +21,6 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
 
-For anything urgent, you can drop me a message on [telegram](https://t.ne/gongahkia) or on my [linkedin](https://www.linkedin.com/in/gabriel-ong-a87022208/).  
+For anything urgent, you can drop me a message on [telegram](https://t.me/gongahkia) or on my [linkedin](https://www.linkedin.com/in/gabriel-ong-a87022208/).  
 
 ![Screenshot 2022-07-24 230954](https://user-images.githubusercontent.com/117062305/205640295-b29d6c08-1fb5-4621-bca6-ed72b8b9444f.jpg)
