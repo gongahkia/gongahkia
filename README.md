@@ -1,4 +1,4 @@
-# [Good morning](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle) people 🐱
+# [Good morning people](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle) 🐱
 
 👋🤡 Gabriel here.
 
