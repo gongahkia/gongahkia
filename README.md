@@ -7,8 +7,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 ------
 
 ***Currently practicing:***
-* C++
-> Everyday I look into the mirror and try to convince myself that C++ is a lovely language when I have to create a whole-ass void function to use `.split()` 💞️
+* Rust
 
 ***Versed in:***
 * Python
@@ -16,6 +15,10 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 * Nim
 * Bash 
 * Javascript, HTML and CSS
+
+***I do not like:***
+* C++
+> Everyday I look into the mirror and try to convince myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
 
 ------
 
