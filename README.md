@@ -7,7 +7,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 ------
 
 ***Currently practicing:***
-* Rust
+* Java
 
 ***Versed in:***
 * Python
@@ -18,6 +18,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 ***I do not like:***
 * C++
+* Rust
 > Everyday I look into the mirror and try to convince myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
 
 ------
