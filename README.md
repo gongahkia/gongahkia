@@ -7,8 +7,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 ------
 
 ***Currently practicing:***
-* Javascript
-* Dart
+* Java
 
 ***Versed in:***
 * Python
