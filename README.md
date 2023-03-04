@@ -7,14 +7,13 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 ------
 
 ***Currently practicing:***
-* Java
+* Dart
 
 ***Versed in:***
 * Python
 * C
 * Nim
 * Bash 
-* Javascript, HTML and CSS
 
 ***I do not like:***
 * C++
