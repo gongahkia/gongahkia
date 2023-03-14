@@ -2,7 +2,7 @@
 
 👋🤡 [Gabriel](https://gongzm.wordpress.com/) here.
 
-I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I enjoy making tools and games that run on the **command line** *(and of course, I'm a Bash enjoyer)*. Right now, I'm interested in gaining more experience in application and web development.
+I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I enjoy making tools and games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
 
 ------
 
