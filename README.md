@@ -51,3 +51,7 @@ I’m looking to collaborate on anything **app** or **web dev** related, though 
   <img height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ong-a87022208/"/>
 </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77DD77,100:F2A2E8&height=100&section=footer"/>
+</p>
