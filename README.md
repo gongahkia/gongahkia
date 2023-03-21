@@ -1,4 +1,10 @@
-# [Good morning people](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle) 🐱
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77DD77,100:F2A2E8&text=皆さんおはよう🫡&height=100&fontColor=FAF9F6&section=header&fontAlignY=60"/>
+</p>
+
+<h1 align="center">
+  <a href="https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle">Good morning people</a> 🐱
+</h1>
 
 👋🤡 [Gabriel](https://gongzm.wordpress.com/) here.
 
