@@ -6,6 +6,10 @@
   <a href="https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle">Good morning people</a> 🐱
 </h1>
 
+<p align="center">
+  <img src="assets/markos.gif">
+</p>
+
 👋🤡 [Gabriel](https://gongzm.wordpress.com/) here.
 
 I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I enjoy making tools and games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
