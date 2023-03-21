@@ -10,31 +10,62 @@
   <img src="assets/markos.gif">
 </p>
 
-👋🤡 [Gabriel](https://gongzm.wordpress.com/) here.
+---
+
+## 👋🤡 Gabriel here.
 
 I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I enjoy making tools and games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
 
 ---
 
-***Currently practicing:***
-* Java
+<h4><i>Currently practicing:</i></h4>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>     
+</p>
 
-***Versed in:***
-* Python
-* C
-* Nim
-* Bash 
+<h4><i>Versed in:</i></h4>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256741/file-type-light-nim-icon-md.png" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="60" height="60"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="60" height="60"/>      
+</p>
 
-***I do not like:***
-* C++
-* Rust
-> Everyday I look into the mirror and try to convince myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
+<h4><i>I do not like:</i></h4>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+</p>
+
+> Everyday I look into the mirror and plead with myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
+
+---
+## 📈 Look more numbers!
+
+<a href="https://www.shutterstock.com/image-photo/businessman-isolated-white-260nw-29904472.jpg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gongahkia&hide=issues&count_private=true&show_icons=true&theme=gruvbox&bg_color=00000000" />
+</a>
+<a href="https://www.shutterstock.com/image-photo/business-man-clown-hair-working-260nw-27999662.jpg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongahkia&layout=compact&theme=gruvbox&bg_color=00000000" />
+</a>
 
 ---
 
 I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
 
-![Screenshot 2022-07-24 230954](https://user-images.githubusercontent.com/117062305/205640295-b29d6c08-1fb5-4621-bca6-ed72b8b9444f.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117062305/205640295-b29d6c08-1fb5-4621-bca6-ed72b8b9444f.jpg" />
+</p>
 
 ---
 
