@@ -53,16 +53,6 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 > Everyday I look into the mirror and plead with myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
 
 ---
-## 📈 Look more numbers!
-
-<a href="https://www.shutterstock.com/image-photo/businessman-isolated-white-260nw-29904472.jpg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gongahkia&hide=issues&count_private=true&show_icons=true&theme=gruvbox&bg_color=00000000" />
-</a>
-<a href="https://www.shutterstock.com/image-photo/business-man-clown-hair-working-260nw-27999662.jpg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongahkia&layout=compact&theme=gruvbox&bg_color=00000000" />
-</a>
-
----
 
 I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
 
