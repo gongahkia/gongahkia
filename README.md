@@ -16,6 +16,8 @@
 
 I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I enjoy making tools and games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
 
+![](https://user-images.githubusercontent.com/117062305/227608204-de4c667c-67d7-442a-9af3-2be725621c8f.jpg)
+
 ---
 
 <h4><i>Currently practicing:</i></h4>
