@@ -59,11 +59,6 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gongahkia&theme=gruvbox&bg_color=00000000&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=gongahkia&show_icons=true&count_private=true&theme=gruvbox&bg_color=00000000&hide=issues)
-
----
-
 I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
 
 <p align="center">
