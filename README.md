@@ -22,12 +22,15 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 <h4><i>Currently practicing:</i></h4>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
 </p>
 
 <h4><i>Versed in:</i></h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256741/file-type-light-nim-icon-md.png" width="60" height="60"/>
@@ -42,12 +45,8 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 <h4><i>Looking to learn:</i></h4>
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" height="60"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" height="60"/>
-          
 </p>
 
 <h4><i>I do not like:</i></h4>
@@ -57,6 +56,11 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 </p>
 
 > Everyday I look into the mirror and plead with myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gongahkia&theme=gruvbox&bg_color=00000000&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gongahkia&show_icons=true&count_private=true&theme=gruvbox&bg_color=00000000&hide=issues)
 
 ---
 
