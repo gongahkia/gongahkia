@@ -76,7 +76,14 @@ I’m looking to collaborate on anything **app** or **web dev** related, though 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117062305/205640295-b29d6c08-1fb5-4621-bca6-ed72b8b9444f.jpg" />
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+Markdown   43 mins         ███████████████████░░░░░░   75.59 %
+Lua        12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+```
+
+<!--END_SECTION:waka-->
 </p>
 
 ---
