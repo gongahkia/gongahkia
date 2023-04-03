@@ -63,17 +63,10 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <h3>📈 Look more numbers!</h3>
 
 <details>
-  <summary>Language Statistics</summary>
+  <summary>Language Stats</summary>
   <p align="center">
     <!--START_SECTION:waka-->
-
-```text
-Markdown   43 mins         ███████████████████░░░░░░   75.59 %
-Lua        12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-```
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </p>
 </details>
 
