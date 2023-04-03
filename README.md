@@ -65,7 +65,8 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <details>
   <summary>Language Statistics</summary>
   <p align="center">
-    <img src="https://wakatime.com/share/@gongahkia/5fd39250-f3ae-4ad2-acc6-7101463a0698.svg" height="400"/>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </p>
 </details>
 
@@ -75,15 +76,6 @@ I’m looking to collaborate on anything **app** or **web dev** related, though 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117062305/205640295-b29d6c08-1fb5-4621-bca6-ed72b8b9444f.jpg" />
-  <!--START_SECTION:waka-->
-
-```text
-Markdown   43 mins         ███████████████████░░░░░░   75.59 %
-Lua        12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-```
-
-<!--END_SECTION:waka-->
 </p>
 
 ---
