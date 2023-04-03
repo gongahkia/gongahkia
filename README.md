@@ -46,7 +46,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 <h4><i>Looking to learn:</i></h4>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" height="60"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" height="60"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
 </p>
 
@@ -56,8 +56,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" height="60"/>
 </p>
 
-> Everyday I look into the mirror and plead with myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
-
+<h4>🌐 <i>My language stats:</i></h4>
 <p align="centre">
   <!--START_SECTION:waka-->
 
