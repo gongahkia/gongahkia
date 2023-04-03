@@ -75,6 +75,8 @@ I’m looking to collaborate on anything **app** or **web dev** related, though 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117062305/205640295-b29d6c08-1fb5-4621-bca6-ed72b8b9444f.jpg" />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 ---
