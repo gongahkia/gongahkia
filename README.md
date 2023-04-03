@@ -64,7 +64,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <details>
   <summary>Language Statistics</summary>
   <p align="center">
-    <img src="https://wakatime.com/share/@gongahkia/c1ea569d-2828-43b4-843f-7c3198dee409.svg" height="400"/>
+    <img src="https://wakatime.com/share/@gongahkia/c1ea569d-2828-43b4-843f-7c3198dee409.svg&v=2" height="400"/>
   </p>
 </details>
 
