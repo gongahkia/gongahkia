@@ -59,8 +59,14 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<h3>📈 Look more numbers!</h3>
+
+<details>
+  <summary>Language Statistics</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/@gongahkia/67725910-cb83-4e5b-bf68-b0eecf5ea27b.svg" height="400"/>
+  </p>
+</details>
 
 ---
 
