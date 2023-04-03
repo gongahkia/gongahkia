@@ -59,6 +59,11 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
 
 <p align="center">
