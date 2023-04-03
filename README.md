@@ -58,17 +58,8 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 > Everyday I look into the mirror and plead with myself to make peace with C++, when clearly [Bjarne Stroustrup](https://img-9gag-fun.9cache.com/photo/amvAORo_460s.jpg) himself is testing me by forcing me to create a whole-ass void function just to use `.split()` 💞️
 
----
-
-<h3>📈 Look more numbers!</h3>
-
-<details>
-  <summary>Language Stats</summary>
-  <p align="center">
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-  </p>
-</details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
