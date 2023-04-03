@@ -60,7 +60,16 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 <p align="centre">
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+Total Time: 57 mins
+
+Markdown   43 mins         ███████████████████░░░░░░   75.59 %
+Lua        12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+```
+
+<!--END_SECTION:waka-->
 </p>
 
 ---
