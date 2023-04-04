@@ -46,6 +46,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 <h4><i>Looking to learn:</i></h4>
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" height="60"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
 </p>
