@@ -56,20 +56,12 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" height="60"/>
 </p>
 
-<h4>🌐 <i>My language stats:</i></h4>
-<p align="centre">
-  <!--START_SECTION:waka-->
-
-```text
-Total Time: 57 mins
-
-Markdown   43 mins         ███████████████████░░░░░░   75.59 %
-Lua        12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-```
-
-<!--END_SECTION:waka-->
+<details>
+<summary><h4>🌐 <i>My language stats:</i></h4></summary>
+<p align="center">
+  <img src="https://wakatime.com/share/@gongahkia/f4677cc0-c435-40cf-8449-954a89e32aaf.svg" height="600"/>
 </p>
+</details>
 
 ---
 
