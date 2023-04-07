@@ -16,7 +16,7 @@
 
 I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I enjoy making tools and games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
 
-![](https://user-images.githubusercontent.com/117062305/227608204-de4c667c-67d7-442a-9af3-2be725621c8f.jpg)
+![](https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png)
 
 ---
 
@@ -25,7 +25,6 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
 </p>
 
 <h4><i>Versed in:</i></h4>
@@ -55,6 +54,7 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
 </p>
 
 <details>
