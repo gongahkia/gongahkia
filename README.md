@@ -57,13 +57,6 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
 </p>
 
-<details>
-<summary><h4>🌐 <i>My language stats:</i></h4></summary>
-<p align="center">
-  <img src="https://wakatime.com/share/@gongahkia/f4677cc0-c435-40cf-8449-954a89e32aaf.svg" height="600"/>
-</p>
-</details>
-
 ---
 
 I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
