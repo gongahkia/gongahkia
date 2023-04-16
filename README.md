@@ -1,22 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77DD77,100:F2A2E8&text=皆さんおはよう🫡&height=100&fontColor=FAF9F6&section=header&fontAlignY=70"/>
-</p>
-
 <h1 align="center">
   <a href="https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle">Good morning people</a> 🐱
 </h1>
 
 <p align="center">
-  <img src="assets/markos.gif">
+  
 </p>
 
 ---
 
-## 👋🤡 [Gabriel](https://gongahkia.github.io/) here.
-
-I'm a self-taught programmer, and your *[average Neovim enthusiast](https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg)*. In my spare time, I enjoy making tools and games that run on the **command line**. Right now, I'm interested in gaining more experience in application and web development.
-
-![](https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png)
+<div align="left">
+  <img src="assets/markos.gif" align="right" height="280px"/>
+  <p>👋🤡 Gabriel here.</br></br>I'm a self-taught programmer, and your <a href="https://upload.wikimedia.org/wikipedia/commons/9/92/5_circus_clowns_LCCN2002718921.jpg">average Neovim enthusiast</a>. Right now, I'm interested in gaining more experience in application and web development. In my spare time, I make tools that run on the <b>command line</b>.</p>
+</div>
 
 ---
 
@@ -27,22 +22,14 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 
 <h4><i>Versed in:</i></h4>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256741/file-type-light-nim-icon-md.png" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="60" height="60"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="60" height="60"/>
-<img src="https://pop.system76.com/icon-512.png" width="65" height="65"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" height="60"/>
 </p>
 
 <h4><i>Looking to learn:</i></h4>
@@ -75,23 +62,24 @@ I'm a self-taught programmer, and your *[average Neovim enthusiast](https://uplo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" width="60" height="60"/>
-</p>
-
-<h4><i>I do not like:</i></h4>
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
 </p>
 
----
-
-I’m looking to collaborate on anything **app** or **web dev** related, though I'll likely be more of support for back-end related stuff rather than front-end.  
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/117062305/205640295-b29d6c08-1fb5-4621-bca6-ed72b8b9444f.jpg" />
+<h4><i>Using:</i></h4>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="60" height="60"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="60" height="60"/>
+<img src="https://pop.system76.com/icon-512.png" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="60" height="60"/>
 </p>
 
 ---
+
+Looking to collaborate on anything **app** or **web dev** related.
 
 <h2 align="center">
   Drop me a message on my socials:
@@ -111,6 +99,6 @@ I’m looking to collaborate on anything **app** or **web dev** related, though 
 </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:77DD77,100:F2A2E8&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png" height="450px"/>
+</div>
