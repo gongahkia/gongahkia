@@ -30,6 +30,7 @@
 ### My projects
 
 [![](https://img.shields.io/badge/-🥃%20My%20Website-000)](https://github.com/gongahkia/personal-site)
+[![](https://img.shields.io/badge/-🌱%20V2%20of%20my%20website-000)](https://github.com/gongahkia/v2-personal-site)
 [![](https://img.shields.io/badge/-🏺%20Gitfetch-000)](https://github.com/gongahkia/gitfetch)
 [![](https://img.shields.io/badge/-🖋️%20SHED-000)](https://github.com/gongahkia/shed)
 [![](https://img.shields.io/badge/-🖥️%20BBED-000)](https://github.com/gongahkia/bbed)
