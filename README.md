@@ -60,6 +60,7 @@
 ![Erlang](https://img.shields.io/badge/-Erlang-000?&logo=erlang)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![Zig](https://img.shields.io/badge/-Zig-000?&logo=zig)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Deno](https://img.shields.io/badge/-Deno-000?&logo=deno)
