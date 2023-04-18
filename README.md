@@ -15,6 +15,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=haskell)
+
 
 ### Tools & Technologies
 
@@ -52,7 +54,6 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)
-![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=haskell)
 ![Perl](https://img.shields.io/badge/-Perl-000?&logo=perl)
 ![Elixir](https://img.shields.io/badge/-Elixir-000?&logo=elixir)
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=scala)
