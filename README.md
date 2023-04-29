@@ -31,6 +31,7 @@
 
 ### My projects
 
+[![](https://img.shields.io/badge/-🦀%20Kelp-000)](https://github.com/gongahkia/Kelp)
 [![](https://img.shields.io/badge/-🥃%20My%20Website-000)](https://github.com/gongahkia/personal-site)
 [![](https://img.shields.io/badge/-🌱%20V2%20of%20my%20website-000)](https://github.com/gongahkia/v2-personal-site)
 [![](https://img.shields.io/badge/-🏺%20Gitfetch-000)](https://github.com/gongahkia/gitfetch)
