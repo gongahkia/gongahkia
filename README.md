@@ -6,17 +6,15 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-☕%20Java-000)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
-![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=haskell)
-
 
 ### Tools & Technologies
 
@@ -49,6 +47,7 @@
 
 ### Learn list
 
+![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=haskell)
 ![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=ruby)
