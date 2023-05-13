@@ -40,7 +40,6 @@
 [![](https://img.shields.io/badge/-📝%20a%20better%20todo%20list-000)](https://github.com/gongahkia/a-better-todo-list)
 [![](https://img.shields.io/badge/-⚔️%20rougelike%20game-000)](https://github.com/gongahkia/roguelike)
 [![](https://img.shields.io/badge/-🇯🇵%20%japan%20hour-000)](https://github.com/gongahkia/japan-hour)
-[![](https://img.shields.io/badge/-🤔%20learning%20raylib-000)](https://github.com/gongahkia/learning-raylib)
 [![](https://img.shields.io/badge/-🐍%20snake%20but%20worse-000)](https://github.com/gongahkia/snake-but-worse)
 [![](https://img.shields.io/badge/-🚼%20small%20stuff-000)](https://github.com/gongahkia/small-stuff)
 [![](https://img.shields.io/badge/-🏳️%20cAPItulate-000)](https://github.com/gongahkia/cAPItulate)
