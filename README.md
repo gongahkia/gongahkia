@@ -6,15 +6,15 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/-☕%20Java-000)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+![Java](https://img.shields.io/badge/-☕%20Java-000)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim)
 
 ### Tools & Technologies
 
@@ -29,6 +29,7 @@
 
 ### My projects
 
+[![](https://img.shields.io/badge/-⭕%20rusttt-000)](https://github.com/gongahkia/rusttt)
 [![](https://img.shields.io/badge/-🦀%20Kelp-000)](https://github.com/gongahkia/Kelp)
 [![](https://img.shields.io/badge/-🏺%20Gitfetch-000)](https://github.com/gongahkia/gitfetch)
 [![](https://img.shields.io/badge/-🖋️%20SHED-000)](https://github.com/gongahkia/shed)
