@@ -14,13 +14,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim)
 
 ### Tools & Technologies
 
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
 ![CLI](https://img.shields.io/badge/-CLI-000?&logo=gnometerminal)
-![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Pop_OS](https://img.shields.io/badge/-Pop!OS-000?&logo=popos)
@@ -78,6 +76,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![Cmake](https://img.shields.io/badge/-Cmake-000?&logo=cmake)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
+![Nim](https://img.shields.io/badge/-Nim-000?&logo=nim)
 
 ### Contact me
 
