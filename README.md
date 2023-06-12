@@ -27,6 +27,7 @@
 
 ### My projects
 
+[![](https://img.shields.io/badge/-👊%20rrogue2-000)](https://github.com/gongahkia/rrogue2)
 [![](https://img.shields.io/badge/-🦠%20cellaut-000)](https://github.com/gongahkia/cellaut)
 [![](https://img.shields.io/badge/-⭕%20rusttt-000)](https://github.com/gongahkia/rusttt)
 [![](https://img.shields.io/badge/-🦀%20Kelp-000)](https://github.com/gongahkia/Kelp)
