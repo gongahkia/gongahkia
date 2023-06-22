@@ -28,10 +28,10 @@
 ### My projects
 
 [![](https://img.shields.io/badge/-🎓%20funcli-000)](https://github.com/gongahkia/funcli)
-[![](https://img.shields.io/badge/-🪰%20telshed-000)](https://github.com/gongahkia/telshed)
+[![](https://img.shields.io/badge/-🔴%20pacman-000)](https://github.com/gongahkia/pacman)
 [![](https://img.shields.io/badge/-👊%20rrogue2-000)](https://github.com/gongahkia/rrogue2)
 [![](https://img.shields.io/badge/-🦠%20cellaut-000)](https://github.com/gongahkia/cellaut)
-[![](https://img.shields.io/badge/-⭕%20rusttt-000)](https://github.com/gongahkia/rusttt)
+[![](https://img.shields.io/badge/-❌%20rusttt-000)](https://github.com/gongahkia/rusttt)
 [![](https://img.shields.io/badge/-🦀%20Kelp-000)](https://github.com/gongahkia/Kelp)
 [![](https://img.shields.io/badge/-🏺%20Gitfetch-000)](https://github.com/gongahkia/gitfetch)
 [![](https://img.shields.io/badge/-🖋️%20SHED-000)](https://github.com/gongahkia/shed)
