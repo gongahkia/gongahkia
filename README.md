@@ -18,6 +18,7 @@
 ### Tools & Technologies
 
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim)
 ![CLI](https://img.shields.io/badge/-CLI-000?&logo=gnometerminal)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
