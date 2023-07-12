@@ -28,6 +28,7 @@
 
 ### My projects
 
+[![](https://img.shields.io/badge/-🐟%20fsh%20wrld-000)](https://github.com/gongahkia/fsh-wrld)
 [![](https://img.shields.io/badge/-🤬%20ffs-000)](https://github.com/gongahkia/ffs)
 [![](https://img.shields.io/badge/-👊%20rrogue2-000)](https://github.com/gongahkia/rrogue2)
 [![](https://img.shields.io/badge/-🦠%20cellaut-000)](https://github.com/gongahkia/cellaut)
