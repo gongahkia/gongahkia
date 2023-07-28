@@ -29,7 +29,6 @@
 ### My projects
 
 [![](https://img.shields.io/badge/-🤬%20ffs-000)](https://github.com/gongahkia/ffs)
-[![](https://img.shields.io/badge/-👊%20rrogue2-000)](https://github.com/gongahkia/rrogue2)
 [![](https://img.shields.io/badge/-🦠%20cellaut-000)](https://github.com/gongahkia/cellaut)
 [![](https://img.shields.io/badge/-❌%20rusttt-000)](https://github.com/gongahkia/rusttt)
 [![](https://img.shields.io/badge/-🦀%20Kelp-000)](https://github.com/gongahkia/Kelp)
@@ -42,7 +41,6 @@
 [![](https://img.shields.io/badge/-🏌️‍♂️%20golf%20tracker-000)](https://github.com/gongahkia/golf-tracker)
 [![](https://img.shields.io/badge/-📝%20a%20better%20todo%20list-000)](https://github.com/gongahkia/a-better-todo-list)
 [![](https://img.shields.io/badge/-⚔️%20rougelike%20game-000)](https://github.com/gongahkia/roguelike)
-[![](https://img.shields.io/badge/-🇯🇵%20%japan%20hour-000)](https://github.com/gongahkia/japan-hour)
 [![](https://img.shields.io/badge/-🐍%20snake%20but%20worse-000)](https://github.com/gongahkia/snake-but-worse)
 [![](https://img.shields.io/badge/-🚼%20small%20stuff-000)](https://github.com/gongahkia/small-stuff)
 [![](https://img.shields.io/badge/-🏳️%20cAPItulate-000)](https://github.com/gongahkia/cAPItulate)
