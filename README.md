@@ -37,7 +37,7 @@
 [![](https://img.shields.io/badge/-🖥️%20BBED-000)](https://github.com/gongahkia/bbed)
 [![](https://img.shields.io/badge/-🏌️‍♂️%20golf%20tracker-000)](https://github.com/gongahkia/golf-tracker)
 [![](https://img.shields.io/badge/-📝%20a%20better%20todo%20list-000)](https://github.com/gongahkia/a-better-todo-list)
-[![](https://img.shields.io/badge/-⚔️%20rougelike%20game-000)](https://github.com/gongahkia/roguelike)
+[![](https://img.shields.io/badge/-⚔️%20rougelike-000)](https://github.com/gongahkia/roguelike)
 [![](https://img.shields.io/badge/-🚼%20small%20stuff-000)](https://github.com/gongahkia/small-stuff)
 [![](https://img.shields.io/badge/-🏳️%20cAPItulate-000)](https://github.com/gongahkia/cAPItulate)
 [![](https://img.shields.io/badge/-🪃%20path%20finding-000)](https://github.com/gongahkia/path-finding)
