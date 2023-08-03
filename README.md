@@ -6,8 +6,8 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 ![Java](https://img.shields.io/badge/-☕%20Java-000)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -29,18 +29,18 @@
 ### My projects
 
 [![](https://img.shields.io/badge/-🦠%20cellaut-000)](https://github.com/gongahkia/cellaut)
-[![](https://img.shields.io/badge/-🦀%20Kelp-000)](https://github.com/gongahkia/Kelp)
-[![](https://img.shields.io/badge/-🏺%20Gitfetch-000)](https://github.com/gongahkia/gitfetch)
-[![](https://img.shields.io/badge/-🖋️%20SHED-000)](https://github.com/gongahkia/shed)
-[![](https://img.shields.io/badge/-🥃%20My%20Website-000)](https://github.com/gongahkia/personal-site)
-[![](https://img.shields.io/badge/-🌱%20V2%20of%20my%20website-000)](https://github.com/gongahkia/v2-personal-site)
-[![](https://img.shields.io/badge/-🖥️%20BBED-000)](https://github.com/gongahkia/bbed)
-[![](https://img.shields.io/badge/-🏌️‍♂️%20golf%20tracker-000)](https://github.com/gongahkia/golf-tracker)
-[![](https://img.shields.io/badge/-📝%20a%20better%20todo%20list-000)](https://github.com/gongahkia/a-better-todo-list)
+[![](https://img.shields.io/badge/-🦀%20kelp-000)](https://github.com/gongahkia/Kelp)
+[![](https://img.shields.io/badge/-🏺%20gitfetch-000)](https://github.com/gongahkia/gitfetch)
+[![](https://img.shields.io/badge/-🖋️%20shed-000)](https://github.com/gongahkia/shed)
+[![](https://img.shields.io/badge/-🥃%20site%20v1-000)](https://github.com/gongahkia/personal-site)
+[![](https://img.shields.io/badge/-🌱%20site%20v2-000)](https://github.com/gongahkia/v2-personal-site)
+[![](https://img.shields.io/badge/-🖥️%20bbed-000)](https://github.com/gongahkia/bbed)
+[![](https://img.shields.io/badge/-📍%20golf%20tracker-000)](https://github.com/gongahkia/golf-tracker)
+[![](https://img.shields.io/badge/-📝%20todo%20list-000)](https://github.com/gongahkia/a-better-todo-list)
 [![](https://img.shields.io/badge/-⚔️%20rougelike-000)](https://github.com/gongahkia/roguelike)
-[![](https://img.shields.io/badge/-🚼%20small%20stuff-000)](https://github.com/gongahkia/small-stuff)
-[![](https://img.shields.io/badge/-🏳️%20cAPItulate-000)](https://github.com/gongahkia/cAPItulate)
-[![](https://img.shields.io/badge/-🪃%20path%20finding-000)](https://github.com/gongahkia/path-finding)
+[![](https://img.shields.io/badge/-🚼%20small%20projects-000)](https://github.com/gongahkia/small-stuff)
+[![](https://img.shields.io/badge/-🪃%20pathfinding-000)](https://github.com/gongahkia/path-finding)
+[![](https://img.shields.io/badge/-🏳️%20API-000)](https://github.com/gongahkia/cAPItulate)
 
 ### Learn list
 
