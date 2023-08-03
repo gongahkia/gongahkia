@@ -28,20 +28,16 @@
 
 ### My projects
 
-[![](https://img.shields.io/badge/-🤬%20ffs-000)](https://github.com/gongahkia/ffs)
 [![](https://img.shields.io/badge/-🦠%20cellaut-000)](https://github.com/gongahkia/cellaut)
-[![](https://img.shields.io/badge/-❌%20rusttt-000)](https://github.com/gongahkia/rusttt)
 [![](https://img.shields.io/badge/-🦀%20Kelp-000)](https://github.com/gongahkia/Kelp)
 [![](https://img.shields.io/badge/-🏺%20Gitfetch-000)](https://github.com/gongahkia/gitfetch)
 [![](https://img.shields.io/badge/-🖋️%20SHED-000)](https://github.com/gongahkia/shed)
-[![](https://img.shields.io/badge/-🧠%20rsbf-000)](https://github.com/gongahkia/rsbf)
 [![](https://img.shields.io/badge/-🥃%20My%20Website-000)](https://github.com/gongahkia/personal-site)
 [![](https://img.shields.io/badge/-🌱%20V2%20of%20my%20website-000)](https://github.com/gongahkia/v2-personal-site)
 [![](https://img.shields.io/badge/-🖥️%20BBED-000)](https://github.com/gongahkia/bbed)
 [![](https://img.shields.io/badge/-🏌️‍♂️%20golf%20tracker-000)](https://github.com/gongahkia/golf-tracker)
 [![](https://img.shields.io/badge/-📝%20a%20better%20todo%20list-000)](https://github.com/gongahkia/a-better-todo-list)
 [![](https://img.shields.io/badge/-⚔️%20rougelike%20game-000)](https://github.com/gongahkia/roguelike)
-[![](https://img.shields.io/badge/-🐍%20snake%20but%20worse-000)](https://github.com/gongahkia/snake-but-worse)
 [![](https://img.shields.io/badge/-🚼%20small%20stuff-000)](https://github.com/gongahkia/small-stuff)
 [![](https://img.shields.io/badge/-🏳️%20cAPItulate-000)](https://github.com/gongahkia/cAPItulate)
 [![](https://img.shields.io/badge/-🪃%20path%20finding-000)](https://github.com/gongahkia/path-finding)
