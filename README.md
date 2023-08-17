@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png" height="300px" align="right"/>
 
 * self-taught programmer
-* gaining experience in *application* and *web development* 
+* learning *application* and *web development* 
 * enjoy making tools for the **command line**
 
 
