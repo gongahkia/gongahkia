@@ -1,8 +1,12 @@
+# [good morning ppl](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle)
+
 <div align="left">
-<img src="https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png" height="200px" align="right"/>
-<h1><a href="https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle">good morning ppl</a></h1>
-<p align="justify">Gabriel here.</br></br>I'm a self-taught programmer. Right now, I'm gaining experience in <i>application</i> and <i>web development</i>. In my spare time, I make tools that run on the <b>command line</b>.</p>
-</div>
+<img src="https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png" height="300px" align="right"/>
+
+* self-taught programmer
+* gaining experience in *application* and *web development* 
+* enjoy making tools for the **command line**
+
 
 ### Languages
 
@@ -17,8 +21,8 @@
 
 ### Tools & Technologies
 
-![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim)
+![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
 ![CLI](https://img.shields.io/badge/-CLI-000?&logo=gnometerminal)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
