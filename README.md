@@ -3,9 +3,9 @@
 <div align="left">
 <img src="https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png" height="300px" align="right"/>
 
-* Self-taught programmer
-* Learning *application* and *web development* 
-* Enjoy making tools for the **command line**
+* self-taught programmer
+* busy learning application and web development
+* love making tools for the command line
 
 
 ### Languages
