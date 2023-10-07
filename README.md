@@ -30,9 +30,10 @@
 ![Pop_OS](https://img.shields.io/badge/-Pop!OS-000?&logo=popos)
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora)
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 
 ### Contact me
 
 [![](https://img.shields.io/badge/-tele-000?&logo=telegram&logoColor=white)](https://t.me/gongahkia)
 [![](https://img.shields.io/badge/-Wordpress-000?&logo=wordpress)](https://gongzm.wordpress.com/)
-[![](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/gabriel-ong-a87022208/)
+[![](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](www.linkedin.com/in/gabriel-zmong)
