@@ -1,7 +1,7 @@
-# [good morning ppl](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle)
+# [good morning](https://www.youtube.com/watch?v=iqWqSxJtBDw&ab_channel=klantskalle)
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/117062305/230640744-7897cb2b-2152-400d-8d32-b5aad306c758.png" height="300px" align="right"/>
+<img src="https://github.com/gongahkia/gongahkia/assets/117062305/6d7ad089-beb7-4010-b452-cd868af8a690" height="400px" align="right"/>
 
 * self-taught programmer
 * busy learning application and web development
