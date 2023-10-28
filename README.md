@@ -14,7 +14,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 ![Java](https://img.shields.io/badge/-☕%20Java-000)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
