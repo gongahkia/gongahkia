@@ -4,6 +4,7 @@
 <img src="https://github.com/gongahkia/gongahkia/assets/117062305/6d7ad089-beb7-4010-b452-cd868af8a690" height="300px" align="right"/>
 
 * self-taught programmer
+* soya milk scholar
 * busy learning application and web development
 * love making tools for the command line
 
