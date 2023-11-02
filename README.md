@@ -5,8 +5,8 @@
 
 * self-taught programmer
 * soya milk expert
-* busy learning application and web development
-* love making tools for the command line
+* learning app and web dev
+* CLI enthusiast
 
 
 ### Languages
