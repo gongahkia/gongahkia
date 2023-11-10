@@ -8,7 +8,7 @@
 * learning app and web dev
 * soya milk expert
 
-### Languages
+### languages
 
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 
-### Tools & Technologies
+### tools & tech
 
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=vim)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=neovim)
@@ -32,7 +32,7 @@
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 
-### Contact me
+### contact me
 
 [![](https://img.shields.io/badge/-tele-000?&logo=telegram&logoColor=white)](https://t.me/gongahkia)
 [![](https://img.shields.io/badge/-Wordpress-000?&logo=wordpress)](https://gongzm.wordpress.com/)
