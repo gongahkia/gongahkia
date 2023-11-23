@@ -32,10 +32,13 @@
 ![Debian](https://img.shields.io/badge/-Debian-000?&logo=debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 
-### contact me
-
-[![](https://img.shields.io/badge/-tele-000?&logo=telegram&logoColor=white)](https://t.me/gongahkia)
-[![](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)](https://gongzm.wordpress.com/)
-[![](https://img.shields.io/badge/-linkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/gabriel-zmong/)
+### stats
 
 ![](https://www.codewars.com/users/gongahkia/badges/micro)
+[![LeetCode user gongahkia](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgongahkia&logo=leetcode&logoColor=yellow)](https://leetcode.com/gongahkia/)
+
+### contact me
+
+[![](https://img.shields.io/badge/-gmail-000?&logo=gmail)](mailto:gabrielzmong@gmail.com?subject=general%20enquiry)
+[![](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)](https://gongzm.wordpress.com/)
+[![](https://img.shields.io/badge/-linkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/gabriel-zmong/)
