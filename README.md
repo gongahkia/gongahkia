@@ -34,8 +34,8 @@
 
 ### stats
 
-![](https://www.codewars.com/users/gongahkia/badges/micro)
-[![LeetCode user gongahkia](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgongahkia&logo=leetcode&logoColor=yellow)](https://leetcode.com/gongahkia/)
+[![](https://www.codewars.com/users/gongahkia/badges/micro)](https://www.codewars.com/users/gongahkia)
+[![](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgongahkia&logo=leetcode&logoColor=yellow)](https://leetcode.com/gongahkia/)
 
 ### contact me
 
