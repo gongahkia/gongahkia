@@ -35,5 +35,5 @@
 ### contact me
 
 [![](https://img.shields.io/badge/-tele-000?&logo=telegram&logoColor=white)](https://t.me/gongahkia)
-[![](https://img.shields.io/badge/-Wordpress-000?&logo=wordpress)](https://gongzm.wordpress.com/)
-[![](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/gabriel-zmong/)
+[![](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)](https://gongzm.wordpress.com/)
+[![](https://img.shields.io/badge/-linkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/gabriel-zmong/)
