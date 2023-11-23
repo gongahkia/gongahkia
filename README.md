@@ -37,3 +37,5 @@
 [![](https://img.shields.io/badge/-tele-000?&logo=telegram&logoColor=white)](https://t.me/gongahkia)
 [![](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)](https://gongzm.wordpress.com/)
 [![](https://img.shields.io/badge/-linkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/gabriel-zmong/)
+
+![](https://www.codewars.com/users/gongahkia/badges/micro)
