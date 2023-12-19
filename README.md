@@ -12,7 +12,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 ![F#](https://img.shields.io/badge/-F%23-000?&logo=f%23)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Java](https://img.shields.io/badge/-☕%20Java-000)
