@@ -15,7 +15,6 @@
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 ![Java](https://img.shields.io/badge/-☕%20Java-000)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 
 ### contact me
