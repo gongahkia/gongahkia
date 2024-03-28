@@ -4,7 +4,7 @@
 <img src="assets/vim-gang.gif" height="200px" align="right"/>
 
 * self-taught programmer
-* CLI enthusiast
+* cli enthusiast
 * learning app, web and game dev
 
 ### languages
