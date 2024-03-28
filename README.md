@@ -5,7 +5,7 @@
 
 * self-taught programmer
 * CLI enthusiast
-* learning app and web dev
+* learning app, web and game dev
 
 ### languages
 
