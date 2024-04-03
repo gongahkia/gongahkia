@@ -1,3 +1,4 @@
-* self-taught programmer
+* self-taught
 * cli enthusiast
-* learning app, web and game dev  
+* learning app, web dev
+* legal technologist
