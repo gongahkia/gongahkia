@@ -1,4 +1,4 @@
 * self-taught
 * cli enthusiast
-* learning app, web dev
+* learning app and web dev
 * legal technologist
