@@ -7,6 +7,7 @@
 ![python](https://img.shields.io/badge/-python-000?&logo=Python&logoColor=f5f5f5)
 ![javaScript](https://img.shields.io/badge/-javascript-000?&logo=JavaScript&logoColor=f5f5f5)
 ![rust](https://img.shields.io/badge/-rust-000?&logo=rust&logoColor=f5f5f5)
+![c++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=f5f5f5)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=f5f5f5)
 ![lua](https://img.shields.io/badge/-lua-000?&logo=Lua&logoColor=f5f5f5)
 ![java](https://img.shields.io/badge/-java-000?&logo=buymeacoffee&logoColor=f5f5f5)
