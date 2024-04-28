@@ -6,6 +6,7 @@
 ##### languages
 ![python](https://img.shields.io/badge/-python-000?&logo=Python&logoColor=f5f5f5)
 ![javaScript](https://img.shields.io/badge/-javascript-000?&logo=JavaScript&logoColor=f5f5f5)
+![go](https://img.shields.io/badge/-go-000?&logo=go&logoColor=f5f5f5)
 ![rust](https://img.shields.io/badge/-rust-000?&logo=rust&logoColor=f5f5f5)
 ![c++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=f5f5f5)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=f5f5f5)
