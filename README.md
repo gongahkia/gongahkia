@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./asset/custom-gif/vim-emacs-bros.gif" width=30% height=30%>
+  <img src="./asset/custom-gif/gong_vim_piku.gif" width=45% height=45%>
 </p>
 
 See https://gongahkia.github.io/.
