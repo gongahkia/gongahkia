@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.README_ACCESS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
