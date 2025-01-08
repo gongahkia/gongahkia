@@ -1,5 +1,7 @@
 <p align="center">
   <samp>
+    Legal Tech tinkerer.
+    <br>
     <a href="https://gongahkia.github.io/">www</a> // 
     <a href="https://gongahkia.github.io/contact.html">chat</a> // 
     <a href="https://github.com/sponsors/gongahkia">sponsor</a>
